@@ -3,12 +3,6 @@
 * 🌍  I'm based in Tehran/Iran
 * 🤝  I'm open to collaborating on open source projects
 
-<p align="center">
-<a href="" rel="nofollow">
-    <img alt="Website" src="https://camo.githubusercontent.com/bf90a3c4b70047d6049290fdfdd51d4354096cdab49d6401ff8d9a5ce57e241e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576562736974652d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d61626f75742e6d65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Website-000000?style=flat-square&amp;logo=about.me&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</p>
-
 ### Skills
 
 <p align="left">
