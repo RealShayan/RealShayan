@@ -5,6 +5,8 @@ an excited web developer :)
 
 * 🌍  I'm based in Tehran/Iran
 * 🤝  I'm open to collaborating on open source projects
+* 📧  you can contact me at Shayan01379@gmail.com.com
+* 🌐  https://RealShayan.netlify.app
 
 ### Skills
 
