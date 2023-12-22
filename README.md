@@ -8,6 +8,10 @@ an excited web developer :)
 * 📧  you can contact me at Shayan01379@gmail.com
 * 🌐  https://RealShayan.netlify.app
 
+### Resume
+
+🔍 Open the link to see <a href="https://docs.google.com/document/d/1LbwyHP5q8ZWCIMeSWQNYLEPSI2TdMtodFZBv0al4TjY">My Resume📄</a>
+
 ### Skills
 
 <p align="left">
