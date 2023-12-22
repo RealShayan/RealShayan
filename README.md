@@ -10,7 +10,7 @@ an excited web developer :)
 
 ### Resume
 
-🔍 Open the link to see <a href="https://docs.google.com/document/d/1LbwyHP5q8ZWCIMeSWQNYLEPSI2TdMtodFZBv0al4TjY">My Resume📄</a>
+🔍 Open the link to see <a href="https://realshayan.netlify.app/CV_ShayanMahmoodi.pdf">My Resume📄</a>
 
 ### Skills
 
