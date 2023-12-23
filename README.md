@@ -9,10 +9,10 @@ an excited web developer :)
 * 🌐  https://RealShayan.netlify.app
 
 <p align="center">
-      <a href="https://RealShayan.netlify.app" rel="nofollow">
+      <a href="https://ali-nazari.netlify.app/" rel="nofollow">
         <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
       </a>
-      <a href="https://www.coffeete.ir/realshayan" rel="nofollow">
+      <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
         <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
       </a>
 </p>
