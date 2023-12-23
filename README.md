@@ -8,6 +8,15 @@ an excited web developer :)
 * 📧  you can contact me at Shayan01379@gmail.com
 * 🌐  https://RealShayan.netlify.app
 
+<p align="center">
+      <a href="https://RealShayan.netlify.app" rel="nofollow">
+        <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
+      </a>
+      <a href="https://www.coffeete.ir/realshayan" rel="nofollow">
+        <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
+      </a>
+</p>
+
 ### Resume
 
 ☕ Open the link to see <a href="https://realshayan.netlify.app/CV_ShayanMahmoodi.pdf">My Resume📃</a>
