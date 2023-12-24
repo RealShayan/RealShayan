@@ -1,26 +1,18 @@
-<h1><p>Hi <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width='30px' height='30px'></a>, My name is Shayan <img width="30px" height="30px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt=""></p></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Shayan+Mahmoodi...;A+back-end+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
+  </a>
+</h1>
 
-an excited web developer :)
------------------------------
-
-* 🌍  I'm based in Tehran/Iran
-* 🤝  I'm open to collaborating on open source projects
-* 📧  you can contact me at Shayan01379@gmail.com
-* 🌐  https://RealShayan.netlify.app
-
-<p align="center">
-      <a href="https://ali-nazari.netlify.app/" rel="nofollow">
-        <img alt="Website" src="img/portfolioImgBadge.svg" style="max-width: 100%;border-radius:5px">
-      </a>
-      <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
-        <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
-      </a>
-</p>
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt=""></p>
+# 🍟 About Me:
+🌍  I'm based in Tehran/Iran<br>
+🤝  I'm open to collaborating on open source projects<br>
+📧  you can contact me at Shayan01379@gmail.com<br>
+🌐  https://RealShayan.netlify.app<br>
 
 ### Resume
 
-☕ Open the link to see <a href="https://realshayan.netlify.app/CV_ShayanMahmoodi.pdf">My Resume📃</a>
+💡 Open the link to see <a href="https://realshayan.netlify.app/CV_ShayanMahmoodi.pdf">My Resume📃</a>
 
 ### Skills
 
@@ -43,10 +35,8 @@ an excited web developer :)
 ### Socials
 
 <p align="left">
-<a href="https://instagram.com/shayan._.mah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayan._.mah" height="32" width="32" /></a>
-<a href="https://discord.com/users/Real.Shayan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/RealShayan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture></a> 
-<a href="https://www.linkedin.com/in/shayan-mahmoodi-a74aa6268" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://discord.com/users/Real.Shayan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/shayan-mahmoodi-a74aa6268" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a target="_blank" href="mailto:shayan01379@gmail.com"><img src="https://camo.githubusercontent.com/650b256fac63f9d4e0f32d92e06c5e44d4b4530ddbf78be0c1803746d80c3201/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f733a676f6f676c652d676d61696c2e737667" width="32" height="32" alt="Gmail" data-canonical-src="https://api.iconify.design/logos:google-gmail.svg" style="max-width: 100%;"></a></p>
 
 ### My GitHub Stats
