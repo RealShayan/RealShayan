@@ -9,7 +9,13 @@
 🤝  I'm open to collaborating on open source projects<br>
 📧  you can contact me at Shayan01379@gmail.com<br>
 🌐  https://RealShayan.netlify.app<br>
-
+<p align="center">
+<!--       <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
+        <img width="120px" src="img/buyCoffee.svg" style="max-width: 100%;">
+      </a> -->
+</p>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=Silent-Watcher&amp;color=4A62C2" alt=""></p>
+    
 ### Resume
 
 💡 Open the link to see <a href="https://realshayan.netlify.app/CV_ShayanMahmoodi.pdf">My Resume📃</a>
