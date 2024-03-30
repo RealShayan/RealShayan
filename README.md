@@ -7,7 +7,6 @@
 # 🍟 About Me:
 🌍  I'm based in Tehran/Iran<br>
 🤝  I'm open to collaborating on open source projects<br>
-📧  you can contact me at Shayan01379@gmail.com<br>
 🌐  https://RealShayan.netlify.app<br>
 <p align="center">
 <!--       <a href="https://www.coffeete.ir/silentwatcher" rel="nofollow">
