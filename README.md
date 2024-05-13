@@ -4,6 +4,50 @@
   </a>
 </h1>
 
+``` c#
+
+using System;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Threading;
+
+namespace Personal_info
+{
+    class Program
+    {
+        static void Main()
+        {
+            string firstName = "Shayan";
+            string lastName = "Mahmoodi";
+            string[] skills = { "WordPress", "C#", ".NET", "Entity Framework Core", "Asp.NET Core Web API", "Restful APIs", "MongoDB", "SQL Server", "TDD", "Python", "Git" };
+
+            Console.Write(" First Name: ");
+            AnimateText(firstName, ConsoleColor.Green);
+            Console.Write("\n Last Name: ");
+            AnimateText(lastName, ConsoleColor.Blue);
+            Console.Write("\n Skills: ");
+            foreach (string lang in skills)
+            {
+                AnimateText(lang, ConsoleColor.Red);
+                Console.Write(" | ");
+            }
+            Console.ReadKey();
+        }
+        static void AnimateText(string text, ConsoleColor color)
+        {
+            foreach (char c in text)
+            {
+                Console.ForegroundColor = color;
+                Console.Write(c);
+                Thread.Sleep(100);
+            }
+            Console.ResetColor();
+        }
+    }
+}
+
+```
+
 # 🍟 About Me:
 🌍  I'm based in Tehran/Iran<br>
 🤝  I'm open to collaborating on open source projects<br>
