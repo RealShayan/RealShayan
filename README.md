@@ -36,7 +36,7 @@ Visitor count<br>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/>
-	<img width="50" src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="fedora" title="fedora"/>
+	<img width="50" src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" title="CentOS"/>
 </div>
 
 ## :zap: Database Stack :
