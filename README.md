@@ -67,7 +67,7 @@ Visitor count<br>
 ## 📧 Connect with Me :
 <p align="center">
       <!-- linkedin -->
-        <a href="https://www.linkedin.com/in/shayan-mahmoodi-a74aa6268" target="_blank">
+        <a href="https://www.linkedin.com/in/real-shayan" target="_blank">
           <picture >
               <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
               <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
