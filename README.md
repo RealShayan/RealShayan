@@ -21,7 +21,7 @@ Visitor count<br>
 ## :zap: DevOps Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,ansible,maven,jenkins,prometheus,terraform,nginx,grafana,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,ansible,rabbitmq,maven,jenkins,prometheus,terraform,nginx,grafana,vim" />
   </a>
 </p>
 
@@ -41,9 +41,9 @@ Visitor count<br>
 
 ## :zap: Database Stack :
 <div align="center">
-	<img width="65" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+	<img width="60" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/>
-	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
 </div>
 
 ## :zap: Editor / IDE I ♥ :
