@@ -21,7 +21,12 @@ Visitor count<br>
 ## :zap: DevOps Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,ansible,rabbitmq,maven,jenkins,prometheus,terraform,nginx,grafana,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,ansible,rabbitmq,maven" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,prometheus,terraform,nginx,grafana,vim" />
   </a>
 </p>
 
